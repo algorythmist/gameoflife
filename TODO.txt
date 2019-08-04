@@ -1,0 +1,2 @@
+- enable/disable buttons based on available actions
+- auto-generate board
